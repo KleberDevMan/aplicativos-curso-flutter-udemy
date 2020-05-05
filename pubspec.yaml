@@ -29,6 +29,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  mobx_codegen: ^1.0.3
+  build_runner: ^1.9.0
 
 
 # For information on the generic Dart part of this file, see the
